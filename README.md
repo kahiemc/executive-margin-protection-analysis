@@ -110,7 +110,7 @@ Includes:
 
 ### Live Dashboard
 
-[View Tableau Dashboard Here](https://public.tableau.com/views/ExecutiveMarginProtectionDashboard/ExecutiveMarginProtectionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Tableau Dashboard Here](https://public.tableau.com/views/ExecutiveMarginProtectionDashboard/NewExecutiveMarginProtectionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
