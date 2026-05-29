@@ -112,6 +112,7 @@ Includes:
 
 [View Tableau Dashboard Here](https://public.tableau.com/views/ExecutiveMarginProtectionDashboard/NewExecutiveMarginProtectionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+[View Video Walkthrough Here](https://www.loom.com/share/cf75ce5eb98e4deabdad4b5e96a64b99)
 ---
 
 ## Project Outcome
